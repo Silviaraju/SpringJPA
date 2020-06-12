@@ -1,0 +1,7 @@
+com\example\jpaorm\JpaormApplication.class
+com\example\jpaorm\Model\Employee.class
+com\example\jpaorm\Model\Department.class
+com\example\jpaorm\Repository\empRepository.class
+com\example\jpaorm\Repository\deptRepository.class
+com\example\jpaorm\Controller\deptController.class
+com\example\jpaorm\Controller\empController.class
